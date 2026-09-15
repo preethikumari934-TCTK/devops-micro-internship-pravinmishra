@@ -54,11 +54,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Truth: Consistent aerobic exercise increases physical stamina and lowers your resting heart rate over time.
 
 ### Evidence from my life
 
-Add your answer here...
+Evidence from my life: I started a running program where I jogged for 30 minutes, three times a week, for two months. Initially, my heart rate spiked quickly and I felt exhausted after just one mile. By week eight, tracking data showed my resting heart rate dropped by 5 beats per minute, and I could run three miles comfortably
 
 ---
 
@@ -66,11 +66,12 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Truth: Consuming caffeine within six hours of bedtime disrupts sleep architecture and reduces deep sleep duration.
 
 ### Evidence from my life
 
-Add your answer here...
+.Evidence from my life: I tracked my sleep quality using a wearable fitness band for two weeks while drinking a cup of coffee at 7:00 PM. Every night after drinking the coffee, my tracker showed a 40% drop in deep sleep and I woke up feeling unrefreshed. When I cut off caffeine after 2:00 PM, my deep sleep metrics returned to normal.
+
 
 ---
 
@@ -78,11 +79,10 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
-
+Truth: Breaking complex tasks into smaller, timed intervals reduces procrastination and increases total output.
 ### Evidence from my life
 
-Add your answer here...
+Evidence from my life: I struggled to start a 10-page research paper, staring at a blank document for hours out of overwhelm. I experimented with the Pomodoro technique, forcing myself to write for just 25 minutes before taking a break. Using this method, I cleared my resistance and completed the entire first draft over a single weekend.
 
 ---
 
