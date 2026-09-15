@@ -104,19 +104,17 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+*React.js (or Vue.js / Angular)
+*HTML5 & CSS3 (with JavaScript)
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
-
+*Node.js (Express framework)
+*Python (Django or Flask framework)
 ### Database
 
-* Add your answer here...
-* Add your answer here...
-
+*Python (Django or Flask framework)
+*MongoDB (or Microsoft SQL Server)
 ---
 
 # 🌍 Task 4: Domain Name & DNS (Basic Concepts)
