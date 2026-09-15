@@ -91,7 +91,8 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](![Uploading image.png…]()
+![Application Architecture Diagram](<img width="484" height="264" alt="image" src="https://github.com/user-attachments/assets/e16f0514-215f-44aa-a52b-c79748b33eab" />
+
 )
 
 
