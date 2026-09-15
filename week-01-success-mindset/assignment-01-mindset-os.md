@@ -311,8 +311,7 @@ Mon–Fri: 60 minutes of uninterrupted deep work before starting daily tasks.Sat
 
 #### When Will You Do DMI Work? (Days + Time)
 
-When Will You Do DMI Work? Saturdays from 9:00 AM to 11:00 AM.How Many Sessions Per Week? 1 dedicated DMI session per week.
-
+When Will You Do DMI Work? Saturdays from 9:00 AM to 11:00 AM.
 #### How Many Sessions Per Week?
 
 How Many Sessions Per Week? 1 dedicated DMI session per week.
