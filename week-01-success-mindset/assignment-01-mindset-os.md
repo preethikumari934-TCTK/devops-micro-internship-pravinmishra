@@ -33,8 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
-
+I believe working harder is often less important than choosing the right problem to solve. Many people think success comes mainly from long hours, but I think constant busyness can hide a lack of direction. Learning to say no, focusing deeply, and changing course when something is not working are more valuable than simply being disciplined. Effort matters, but effort without reflection can waste years.
 ---
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
