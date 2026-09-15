@@ -142,8 +142,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
-
+DNS (Domain Name System) acts as the phonebook of the internet, translating human-friendly domain names (like epicreads.com) into machine-readable IP addresses (like 192.0.2.1).To connect a domain directly to an IP address, you must use an A record (Address record) for IPv4 addresses or an AAAA record for IPv6 addresses. This specific record type is required because its sole purpose in the DNS system is to map a static hostname directly to its corresponding physical server IP address, allowing user traffic to find your application.Would you like me to write out the exact DNS configuration line for your domain name and server IP address, or do you need to check if your IP address requires an A or an AAAA record?
 ---
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
