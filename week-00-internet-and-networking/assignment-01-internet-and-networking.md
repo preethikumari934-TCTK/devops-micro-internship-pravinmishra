@@ -35,7 +35,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I have learned here that what is protocol and protocol in Networking
 
 ---
 
