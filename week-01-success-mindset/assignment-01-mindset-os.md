@@ -285,7 +285,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+yes
 
 ---
 
@@ -303,7 +303,7 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon–Fri: 60 minutes of uninterrupted deep work before starting daily tasks.Saturday: 2 hours of dedicated DMI (Direct Massive Action) work to push forward core goals.Sunday: 30 minutes of weekly review to track metrics, clear pending tasks, and plan the upcoming week.
 
 ---
 
@@ -311,11 +311,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+When Will You Do DMI Work? Saturdays from 9:00 AM to 11:00 AM.How Many Sessions Per Week? 1 dedicated DMI session per week.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+How Many Sessions Per Week? 1 dedicated DMI session per week.
 
 ---
 
@@ -329,8 +329,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
-
+Phone Rules: Keep the phone in another room or on Do Not Disturb mode inside a drawer during all focus blocks.Social Media Rules: Block social media sites using a browser extension during working hours; check profiles only during a designated 15-minute afternoon window.Environment Setup: Work at a clean, clutter-free desk with noise-canceling headphones on, letting others in the household know not to disturb me during focus blocks.
 ---
 
 # Reflection – Week 1
