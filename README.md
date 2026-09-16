@@ -14,7 +14,7 @@
 
 | | |
 |---|---|
-| **Name** | Prrethi Paswan |
+| **Name** | Preethi Paswan |
 | **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
 | **Location** | hyderabad |
 | **Background** | Cloud, DevOps & AI Consultant |
