@@ -354,7 +354,26 @@ I noticed that I sometimes hesitate when a topic feels new or difficult. This ca
 Every day from 7:00 PM to 7:45 PM, I will spend 45 minutes learning or practising one DevOps topic. I will write three short notes about what I learned and upload or update one small piece of work on GitHub each week.
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+Starting my DevOps journey with a stronger mindset and a practical system for learning. This week’s DMI assignments pushed me to reflect on how I work, learn, and grow.
+My biggest takeaway: working harder is not always the answer. Choosing the right problem, focusing deeply, and reviewing progress matter more than staying busy.
+I also identified three lessons from my own experience:
+Consistent exercise improves stamina and energy.
+Avoiding caffeine late in the day improves sleep quality.
+Breaking difficult work into small, timed sessions reduces procrastination.
+Over the next five months, I will follow a simple system:
+60 minutes of deep work from Monday to Friday  
+Dedicated DMI work every Saturday, 9:00 AM–11:00 AM  
+A weekly review every Sunday  
+Daily DevOps practice from 7:00 PM–7:45 PM  
+Weekly GitHub updates to create visible proof of learning
+My goal is to become a DevOps professional with practical skills in Linux, cloud, networking, Docker, CI/CD, Terraform, monitoring, and automation. I am committed to building projects, publishing what I learn, and improving through consistent action.
+A key weakness I noticed is overthinking when a topic feels difficult. This week, I committed to starting small, practising regularly, and learning through mistakes instead of waiting to feel fully prepared.
+Thank you, Pravin Mishra and Lead Co-Mentor Anjana Muthunayake, for creating this learning opportunity.
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/preethikumari934-TCTK.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+#DMIByPravinMishra #AgenticAI #DevOps
+
+
+
 
 `Add your URL here`
 
