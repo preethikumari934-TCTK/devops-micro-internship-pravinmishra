@@ -152,13 +152,21 @@ Hashtags:
 
 ## Your Article
 
-Add your answer here...
-
+The 2.0 Version: From Learner to DevOps Professional
+By 2031, Preethi had transformed from a curious technology learner into a capable DevOps engineer with a strong public portfolio and practical experience in cloud automation. Her progress was visible not only through her technical skills, but also through the projects, documentation, and community contributions she consistently shared online.
+She built and shipped several cloud-based projects that demonstrated real DevOps practices. Her GitHub portfolio included automated CI/CD pipelines, containerized applications using Docker, infrastructure deployments using Terraform, and monitoring dashboards using tools such as Prometheus and Grafana. Each project included clear documentation, architecture diagrams, deployment instructions, and lessons learned, making her work useful for other beginners as well.
+Preethi earned industry-recognized certifications in cloud computing and DevOps, strengthening her understanding of AWS, Linux, networking, containers, and automation. She also published blog posts explaining technical concepts in simple language, including DNS, application architecture, Git workflows, continuous integration, and secure deployment practices. These articles helped establish her as someone who could both build systems and communicate clearly about them.
+In her professional role, she worked as a DevOps Engineer and contributed to improving software delivery processes. She helped teams automate repetitive deployment tasks, reduce manual errors, and create reliable environments for development and testing. She led small projects involving pipeline improvements, cloud cost awareness, and system monitoring. Her work made releases faster, more consistent, and easier to track.
+Beyond her job, Preethi contributed to the learning community by reviewing beginner projects, sharing resources, and encouraging others to publish their progress. She participated in technical discussions, collaborated with developers, and supported new learners who were beginning their own DevOps journeys.
+Her 2.0 version was not defined only by certifications or job titles. It was defined by proof of work: projects she built, systems she shipped, articles she published, and people she helped. Through steady practice and public learning, she had built a career that combined technical ability, discipline, and meaningful contribution.
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/preethikumari934-TCTK.html · Start your DevOps journey: DMI DevOps Journey
+Tag Pravin Mishra and Lead Co-Mentor Anjana Muthunayake.
+#DMIByPravinMishra #AgenticAI #DevOps
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+
 
 ---
 
