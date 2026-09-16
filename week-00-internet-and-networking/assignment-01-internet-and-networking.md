@@ -247,7 +247,21 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+LinkedIn post backup copy:
+I’m excited to share what I have learned so far in my DevOps journey. These early topics helped me understand how AI tools, networking, application design, and development environments work together in real-world software projects.
+ChatGPT
+I learned that ChatGPT can be a useful learning partner for explaining technical topics, brainstorming ideas, improving writing, and solving problems step by step. It is most effective when I ask clear questions and verify important information rather than relying on it blindly.
+Internet & Networking
+I learned that packet switching divides data into small packets that travel through a network and are reassembled at the destination. Every device uses an IP address for identification. TCP/IP provides the rules for reliable communication, while HTTP and HTTPS enable browsers and servers to exchange website data securely.
+App Architecture
+I compared two-tier and three-tier applications. In a two-tier architecture, the frontend communicates directly with the database. In a three-tier architecture, the backend sits between the frontend and database, handling business logic, security, APIs, and data processing. This structure makes applications easier to maintain and scale.
+DNS
+DNS works like the internet’s phonebook. It converts a human-readable domain name, such as a website URL, into an IP address that computers can use to locate the correct server.
+VS Code Setup
+I set up VS Code as my development environment and learned how it helps developers write, organize, edit, and manage project files. Extensions, the terminal, and version-control integration make development more efficient.
+special thanks to Pravin Mishra and Lead Co-Mentor Anjana Muthunayake
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/preethikumari934-TCTK.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+#DMIByPravinMishra #AgenticAI #DevOp
 
 ---
 
