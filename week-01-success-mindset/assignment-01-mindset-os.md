@@ -164,7 +164,7 @@ Tag Pravin Mishra and Lead Co-Mentor Anjana Muthunayake.
 #DMIByPravinMishra #AgenticAI #DevOps
 ### Public Link
 
-Paste your link here:
+https://www.linkedin.com/posts/preethi-paswan-936338437_dmibypravinmishra-agenticai-devops-share-7505872246247288832-VZ0d/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG43wjoBaOXJzGbgjU7z0g8GDP9Pfyg3mHQ
 
 
 
