@@ -343,16 +343,15 @@ Phone Rules: Keep the phone in another room or on Do Not Disturb mode inside a d
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I learned that I can understand technical concepts when I break them into smaller parts and practise explaining them in simple language. I also realized that consistency matters more than trying to learn everything at once.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I noticed that I sometimes hesitate when a topic feels new or difficult. This can lead to overthinking instead of starting with a small task, practising, and improving through mistakes.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
-
+Every day from 7:00 PM to 7:45 PM, I will spend 45 minutes learning or practising one DevOps topic. I will write three short notes about what I learned and upload or update one small piece of work on GitHub each week.
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
