@@ -269,19 +269,17 @@ P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — 
 
 ### What did you find easy?
 
-Add your answer here...
-
+I found it easy to understand the basic concepts of internet networking, such as IP addresses, packet switching, and the purpose of HTTP/HTTPS. Creating simple application architecture diagrams was also clear once I understood the role of each layer.
 ---
 
 ### What was difficult?
 
-Add your answer here...
-
+The most difficult part was connecting all the concepts together and explaining them in simple words. I also found it challenging to remember the differences between two-tier and three-tier architecture and to organize my work clearly.
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will practise explaining technical concepts more confidently and create more diagrams to strengthen my understanding. I will also spend more time using VS Code and learning how backend services, databases, and DNS work together.
 
 ---
 
