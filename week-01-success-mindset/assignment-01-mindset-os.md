@@ -375,8 +375,7 @@ P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — 
 
 
 
-`Add your URL here`
-
+ https://www.linkedin.com/posts/preethi-paswan-936338437_dmibypravinmishra-agenticai-devops-share-7505882063703748608-mo2u/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG43wjoBaOXJzGbgjU7z0g8GDP9Pfyg3mHQ 
 ---
 
 ## 10. Proof of Work
