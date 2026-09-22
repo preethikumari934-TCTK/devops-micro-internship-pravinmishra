@@ -26,8 +26,9 @@ Screenshot <img width="624" height="526" alt="Screenshot 2026-09-22 153204" src=
 ---
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
+Screenshot <img width="866" height="434" alt="Screenshot 2026-09-22 162203" src="https://github.com/user-attachments/assets/027ecf1d-1c5c-48c6-b1fe-3febc9f2ad03" />
+ 
 
-Add your screenshot here.
 
 ---
 
