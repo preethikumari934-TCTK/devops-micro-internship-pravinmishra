@@ -20,8 +20,14 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
-
+An AWS account is an individual or organizational identity that provides access to Amazon Web Services, enabling you to provision and manage cloud resources for development, testing, or production purposes.
+Why an AWS Account is Needed “At This Stage”
+The phrase “at this stage” likely refers to the current step in a project setup, cloud training, or deployment. An AWS account is needed for several reasons:
+Access to Cloud Resources: To create and configure servers, databases, or storage solutions, you must have an AWS account linked to your user credentials. Without it, you cannot provision cloud infrastructure.
+Hands-on Learning or Experimentation: Many tutorials, training modules, and certification exercises require you to deploy real services in AWS. The account ensures you have an isolated, personal environment to experiment safely.
+Billing and Resource Management: Even if you’re using free-tier services, having an account allows AWS to track your usage, preventing overuse or unexpected costs, and simplifying cost management if you need to scale resources.
+Security and Permissions: At intermediate or advanced stages of cloud development, you may set up roles, policies, and multi-user collaboration. An AWS account allows these configurations to be applied consistently.
+Project Deployment: When deploying a web application, database, or serverless function, an AWS account provides the necessary infrastructure environment for hosting, monitoring, and scaling applications.
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
