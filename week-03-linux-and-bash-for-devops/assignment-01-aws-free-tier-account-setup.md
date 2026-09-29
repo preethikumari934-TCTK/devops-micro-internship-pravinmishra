@@ -32,8 +32,9 @@ Project Deployment: When deploying a web application, database, or serverless fu
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
-
+The AWS Free Tier is a program from Amazon Web Services (AWS) designed to give new customers a risk-free way to explore and experiment with cloud services.
+AWS completely overhauled this model, replacing the legacy 12-month free system with a credit-based structure featuring two distinct paths: a Free plan and a Paid plan.
+How long the tier lasts and how it functions depends on the option you choose at sign-up:
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
