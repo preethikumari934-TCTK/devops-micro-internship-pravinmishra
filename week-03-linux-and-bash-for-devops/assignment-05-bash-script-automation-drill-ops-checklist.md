@@ -88,19 +88,21 @@ Answer the following in your own words:
 
 **1. What is the purpose of `#!/bin/bash`?**
 
-Add your answer here.
+The line #!/bin/bash (pronounced "shebang") is the very first line of a script, and its purpose is to tell the operating system exactly which interpreter to use to execute the code below it.
+Without this line, the system will guess which shell to use, which often leads to errors if the script contains Bash-specific code.
 
 ---
 
 **2. Why do we use `chmod +x` before running a script?**
 
-Add your answer here.
+We use chmod +x because security protocols in Linux, macOS, and Unix-like operating systems block newly created files from running as programs by default. The chmod +x command explicitly grants execution permissions to the file.
+Without this step, the system treats your script as a plain text file, and trying to run it directly will result in a "Permission denied" error.
 
 ---
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
-Add your answer here.
+The difference between the two commands comes down to how the system finds the interpreter and whether the script needs execution permissions.
 
 ---
 
@@ -130,19 +132,21 @@ Answer the following in your own words:
 
 **1. What is a variable in Bash?**
 
-Add your answer here.
+A variable in Bash is a temporary storage location that holds a piece of text or data in memory. You assign it a name, and you can reference that name later in your script or terminal to retrieve or manipulate the stored value.
+In Bash, all variables are treated natively as strings (text), though they can be treated as integers under specific conditions.
 
 ---
 
 **2. Why should we avoid spaces around the `=` sign when creating variables?**
 
-Add your answer here.
+In Bash, you must avoid spaces around the = sign because Bash interprets spaces as command separators.
+If you include spaces, Bash will mistake your variable name for an independent terminal command and the rest of the line for arguments.
 
 ---
 
 **3. How do you access the value stored inside a Bash variable?**
 
-Add your answer here.
+To access the value stored inside a Bash variable, you prefix the variable's name with a dollar sign ($).
 
 ---
 
@@ -172,25 +176,30 @@ Answer the following in your own words:
 
 **1. What is an array in Bash?**
 
-Add your answer here.
+An array in Bash is a variable that can hold multiple values under a single name. Instead of creating separate variables like user1, user2, and user3, you can store all of them inside a single array variable.
+Bash supports two types of arrays:
+• Indexed Arrays: Values are assigned to a numbered list starting at index 0.
+• Associative Arrays: Values are assigned to custom text keys instead of numbers (requires Bash 4.0+).
 
 ---
 
 **2. Why are arrays useful in scripts?**
 
-Add your answer here.
+ Arrays are useful in scripts because they allow you to manage groups of related data efficiently without writing repetitive code. Instead of creating and managing dozens of individual variables, you can handle them as a single entity.
+
 
 ---
 
 **3. What does `"${tools[@]}"` mean?**
 
-Add your answer here.
+The syntax "${tools[@]}" is used to expand a Bash array to retrieve all of its items safely and individually.
 
 ---
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
+The purpose of a for loop is to repeat a specific block of commands multiple times, iterating through a list of items one by one. Instead of writing the same code over and over for different inputs, the loop automates the process by substituting a new value into a variable during each turn (iteration).
+
 
 ---
 
