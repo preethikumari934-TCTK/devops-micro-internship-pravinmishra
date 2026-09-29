@@ -36,19 +36,23 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
+Bash (short for Bourne-Again SHell) is a command-line interface and scripting language used to interact with operating systems. It is the default shell for most Linux distributions and older versions of macOS, and it can be run on Windows via tools like WSL (Windows Subsystem for Linux).
+Essentially, Bash acts as a translator between you and the computer, allowing you to control the system by typing commands instead of clicking icons.
 
 ---
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
+The core difference is that a shell is a generic category, while Bash is a specific product within that category.
+Think of it like this: "Shell" is the operating system's car, and "Bash" is a specific brand of car (like a Toyota Camry).
+
 
 ---
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
+Confirming your Bash version before writing scripts is critical because features, syntax, and behaviors vary significantly between older and newer versions. If a script relies on a feature introduced in a recent update, it will crash or behave unpredictably when executed on a system running an older version.
+
 
 ---
 
