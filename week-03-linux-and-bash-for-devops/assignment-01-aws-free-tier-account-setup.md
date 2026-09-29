@@ -39,7 +39,11 @@ How long the tier lasts and how it functions depends on the option you choose at
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+Here are three popular AWS Free Tier services and their monthly limits, which fall under the Always Free category and do not expire:
+• AWS Lambda: 1 million free requests and up to 3.2 million seconds of compute time per month.
+• Amazon DynamoDB: 25 GB of storage and 25 provisioned Write Capacity Units (WCU) and 25 provisioned Read Capacity Units (RCU), enough to handle up to 200 million requests per month.
+• Amazon CloudFront: 1 TB of data transfer out, 10,000,000 HTTP or HTTPS requests, and 2,000,000 CloudFront Function invocations per month.
+
 
 ---
 
