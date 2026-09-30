@@ -96,6 +96,8 @@ Share your completed Agentic AI session and DMI Leaderboard progress on LinkedIn
 
 Paste your forked repository URL here:
 
+https://github.com/preethikumari934-TCTK/Ultimate-Agentic-DevOps-with-Claude-Code
+
 https://github.com/preethikumari934-TCTK/devops-micro-internship-pravinmishra
 
 ---
