@@ -105,7 +105,7 @@ https://github.com/preethikumari934-TCTK/devops-micro-internship-pravinmishra
 
 ## LinkedIn post URL
 
-Paste your forked repository URL here:
+https://www.linkedin.com/posts/preethi-paswan-936338437_terraform-claudecode-agenticai-share-7511347785665929217-YZ7Q/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG43wjoBaOXJzGbgjU7z0g8GDP9Pfyg3mHQ
 
 `Add your URL here`
 ---
