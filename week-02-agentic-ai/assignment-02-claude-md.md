@@ -109,9 +109,6 @@ https://github.com/preethikumari934-TCTK/devops-micro-internship-pravinmishra
 ---
 
 # Completion Checklist
-
-[✅] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
-[✅] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
 [✅] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
 [✅] Screenshot 2 shows the auto-generated `/init` output <br>
 [✅] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
