@@ -48,22 +48,23 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
+To prove that Nginx is listening on 0.0.0.0:80, you can check the active network ports on your server using command-line utilities.
 
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
-
+An active SSH service on port 22 is proven when the server actively listens on TCP port 22, responds to a network scan with an Nmap Version Scan, and returns an SSH protocol version string upon connection
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
+If you just ran a security scan and found ports open that you didn't expect, it usually happens for a few common reasons:
+• Background Services: Programs like Plex, Docker, or gaming servers often open ports automatically via UPnP.
+• Operating System Defaults: Features like file sharing (SMB) or remote desktop (RDP) might be active without you realizing it.
+• Malware or Misconfiguration: In worse-case scenarios, an unexpected port could mean a compromised system or a firewall rule that's too permissive.
 
 ---
-
 # Task 2 — Service Health & Systemd Validation (Nginx)
 
 ## Goal
@@ -96,14 +97,12 @@ Answer the following in your own words:
 
 **1. What happens if Nginx fails to restart in production?**
 
-Write your answer here.
-
+If Nginx fails to restart in production, your website or application will experience immediate downtime. Because Nginx functions as your front-facing web server or reverse proxy, any failure to start means traffic cannot reach your backend servers
 ---
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
-
+My basic rollback plan focuses on speed and safety to restore your site immediately. In production, you want to revert to the last working state in seconds without making the downtime worse.
 ---
 
 # Task 3 — Logs & Request Trace
@@ -141,20 +140,21 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
+Yes, if Nginx fails to restart, it will always leave a trail in the logs. Here are two classic example error lines you would typically see and what they mean:
+• Example 1: nginx: [emerg] open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
 
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
-
+If both the Nginx logs and the system logs (journalctl) show absolutely no errors during a failure, it indicates a structural or network-level issue outside of Nginx's software code:
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
-
+Yes, my curl requests were visible in the access logs.
+The log entry typically looks like this, explicitly showing the curl User-Agent string:
+127.0.0.1 - - [02/Oct/2026:12:06:00 +0000] "GET / HTTP/1.1" 200 4123 "-" "curl/7.81.0"
 ---
 
 # Task 4 — System Resource Health Check (Capacity Red Flags)
