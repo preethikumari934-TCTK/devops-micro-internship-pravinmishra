@@ -36,20 +36,19 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
+To prove that Nginx is running, you can use several quick methods depending on your environment.
 
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
+To prove that a server is actively listening for HTTP traffic, you need to check if its HTTP port (typically port 80 for HTTP or port 443 for HTTPS) is open and accepting connections.
 
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
-
+You must capture a healthy baseline before simulating an incident to accurately measure the true impact of the disruption and avoid misdiagnosing normal system behavior as an emergency.
 ---
 
 # Task 2 — Create Project Context and Safety Rules in CLAUDE.md
