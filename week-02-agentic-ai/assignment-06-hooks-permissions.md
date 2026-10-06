@@ -63,7 +63,7 @@ Create a hook that runs after Claude executes a Bash command and logs selected T
 
 #### Screenshot 4 — `post-tool-logger.sh` open in VS Code showing the hook script
 
-Add your screenshot here.
+<img width="781" height="481" alt="image" src="https://github.com/user-attachments/assets/f583ead4-d83e-4c44-9187-e6fa59c71aab" />
 
 ---
 
