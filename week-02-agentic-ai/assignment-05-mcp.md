@@ -35,7 +35,8 @@ Create and configure the `.mcp.json` file to define the GitHub MCP server.
 
 #### Screenshot 2 — `.mcp.json` open in VS Code showing the full configuration
 
-Add your screenshot here.
+<img width="717" height="507" alt="image" src="https://github.com/user-attachments/assets/6e9208dd-c0ee-44ff-8a19-1f784945f856" />
+
 
 ---
 
