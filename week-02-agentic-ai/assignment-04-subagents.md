@@ -122,8 +122,7 @@ Make sure your published post includes:
 
 #### Screenshot 7 — Published LinkedIn post showing your post content and leaderboard progress link visible
 
-Add your screenshot here.
-
+https://www.linkedin.com/posts/preethi-paswan-936338437_devops-agenticai-terraform-share-7513132741513859072-O3TY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG43wjoBaOXJzGbgjU7z0g8GDP9Pfyg3mHQ
 ---
 
 # Submission Instructions
@@ -139,6 +138,7 @@ Add your screenshot here.
 Paste your forked repository URL here:
 
 https://github.com/preethikumari934-TCTK/devops-micro-internship-pravinmishra
+
 https://github.com/preethikumari934-TCTK/Ultimate-Agentic-DevOps-with-Claude-Code
 
 # Completion Checklist
