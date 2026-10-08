@@ -102,9 +102,9 @@ Paste your Linkedin post link here:
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/preethikumari934-TCTK/devops-micro-internship-pravinmishra
 
----
+https://github.com/preethikumari934-TCTK/Ultimate-Agentic-DevOps-with-Claude-Code
 
 # Completion Checklist
 
