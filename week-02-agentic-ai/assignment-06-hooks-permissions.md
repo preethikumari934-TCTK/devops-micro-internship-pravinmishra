@@ -134,7 +134,9 @@ Share how you built safety controls that prevent an AI agent from performing des
 
 #### Screenshot 10 — Published post on X or LinkedIn showing your AI safety achievement message and leaderboard progress link visible
 
-Add your screenshot here.
+<img width="672" height="489" alt="image" src="https://github.com/user-attachments/assets/5076740b-a68d-4caa-b984-d6d33aa6e325" />
+
+<img width="701" height="512" alt="image" src="https://github.com/user-attachments/assets/443d2504-4e10-427b-95a0-b2ed3b3e903a" />
 
 ---
 
