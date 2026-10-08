@@ -75,7 +75,8 @@ Share your Week 2 learning publicly on LinkedIn.
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+<img width="666" height="494" alt="image" src="https://github.com/user-attachments/assets/7e27ccdf-ae73-4870-b608-96e6486734f1" />
+
 
 ---
 
@@ -83,15 +84,16 @@ Add your screenshot here.
 
 LinkedIn Post Content (copy-paste here):
 
-```
-Paste your LinkedIn post content here
-```
+🚀 Week 2 Reflection – DevOps Micro Internship (DMI) | Agentic AIAnother exciting week of learning and hands-on practice in my DevOps Micro Internship (DMI) – Agentic AI Track! 🧠☁️This week helped me understand that working with AI agents is not just about asking AI to complete tasks — it is about building reliable, controlled, and safe AI workflows.🔹 What I explored this week:🤖 Claude Code – Understanding how an AI coding agent can work with project files, commands, and development workflows.🧩 Skills amp; Subagents – Learning how specialized capabilities and task delegation can make agentic workflows more structured and efficient.🛡️ Hooks amp; Permissions – Understanding how safety controls can prevent potentially dangerous actions before they happen.🧠 Memory – Exploring how project-specific information can be stored and recalled across sessions, making AI agents more consistent and context-aware.💡 My biggest takeaway:AI automation should not mean giving an AI unlimited freedom. A powerful agent also needs clear boundaries, permissions, safety controls, and reliable memory.One habit I plan to follow going forward is:Think → Restrict → Test → Automate 🔄Before allowing an AI agent to perform an action, I want to understand the risks, define appropriate restrictions, test the workflow safely, and then automate it.This week challenged me to think differently about AI — not just as a tool, but as a system that needs to be designed responsibly.Excited to continue learning and building at the intersection of DevOps + Cloud + Automation + Agentic AI! 🚀#DevOps #AgenticAI #ClaudeCode #AISafety #DMI #DevOpsMicroInternship #CloudAdvisory #Automation #CloudComputing #DevSecOps #AI #LearningInPublic #TechLearning
+https://lnkd.in/dTvi4ggm?
+https://lnkd.in/ee7G-sHf
+https://lnkd.in/dMxySZTF
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+https://www.linkedin.com/posts/preethi-paswan-936338437_devops-agenticai-claudecode-share-7513901289718595585-2znE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG43wjoBaOXJzGbgjU7z0g8GDP9Pfyg3mHQ
 
 ---
 
