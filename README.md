@@ -130,7 +130,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics |  ✅ Completed| ✅ Solved| https://www.linkedin.com/posts/preethi-paswan-936338437_dmibypravinmishra-agenticai-devo-share-7505842833140899840-qBW4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG43wjoBaOXJzGbgjU7z0g8GDP9Pfyg3mHQ | https://medium.com/@preethipaswan7/week-00-internet-and-networking-55f6d28e5c3e|
+| 00 | Internet & Networking Basics |  ✅ Completed| ✅ Solved| https://www.linkedin.com/posts/preethi-paswan-936338437_dmibypravinmishra-agenticai-devo-share-7505842833140899840-qBW4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG43wjoBaOXJzGbgjU7z0g8GDP9Pfyg3mHQ |https://medium.com/@preethipaswan7/week-00-internet-and-networking-15dd50cfd7f4?sharedUserId=preethipaswan7 |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/preethi-paswan-936338437_dmibypravinmishra-agenticai-devops-activity-7505882066505461760-U_aa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG43wjoBaOXJzGbgjU7z0g8GDP9Pfyg3mHQ | https://medium.com/@preethipaswan7/week-01-success-mindset-93e05f92eaad?sharedUserId=preethipaswan7|
 | 02 | Agentic AI with Claude Code | ✅ Completed |✅ Solved| https://www.linkedin.com/posts/preethi-paswan-936338437_devops-agenticai-claudecode-share-7513901289718595585-2znE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG43wjoBaOXJzGbgjU7z0g8GDP9Pfyg3mHQ
 
