@@ -45,16 +45,21 @@ You can publish your blog on:
 ### Evidence
 
 #### Screenshot 1 — Blog published and visible
+<img width="952" height="493" alt="image" src="https://github.com/user-attachments/assets/6aa24f73-b12c-4f45-9b8a-fc0cebc34ef3" />
 
-Add your screenshot here.
+<img width="956" height="496" alt="image" src="https://github.com/user-attachments/assets/7e218203-1851-43e4-b169-dbf31cd0fb6a" />
 
----
+<img width="899" height="497" alt="image" src="https://github.com/user-attachments/assets/39b47e7d-951c-4e7b-84e4-9322b3627ab7" />
+
+<img width="921" height="491" alt="image" src="https://github.com/user-attachments/assets/0bb6416a-89d4-43eb-a107-9196a03685d1" />
+
+<img width="913" height="507" alt="image" src="https://github.com/user-attachments/assets/2a8a1b8c-8350-48a3-8efa-79b8696f69be" />
 
 ### Submission Field
 
 Blog Link:
 
-`Add your URL here`
+https://medium.com/@preethipaswan7/reflection-week-2-c841af5c6a62?sharedUserId=preethipaswan7
 
 ---
 
