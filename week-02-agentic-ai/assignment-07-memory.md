@@ -41,7 +41,7 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-Add your screenshot here.
+<img width="431" height="374" alt="Screenshot 2026-10-08 144136" src="https://github.com/user-attachments/assets/cd74fccf-f584-4e85-b555-79905b1d4bbe" />
 
 ---
 
@@ -55,7 +55,8 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-Add your screenshot here.
+<img width="692" height="502" alt="Screenshot 2026-10-08 144758" src="https://github.com/user-attachments/assets/71ad6954-c5fb-4b1a-bce5-e6f57e6b977f" />
+
 
 ---
 
