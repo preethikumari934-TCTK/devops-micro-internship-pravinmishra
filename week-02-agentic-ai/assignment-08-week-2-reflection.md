@@ -109,15 +109,15 @@ https://www.linkedin.com/posts/preethi-paswan-936338437_devops-agenticai-claudec
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [✅] Blog written with required structure
+* [✅] Blog includes at least 2–3 Week 2 topics
+* [✅] Blog is publicly accessible
+* [✅] LinkedIn post created
+* [✅] Required P.S. line included
+*  [✅] LinkedIn post content copied in submission field
+* [✅] Blog link added
+* [✅] LinkedIn post link added
+* [✅] Screenshots added to GitHub repo
 
 ---
 
